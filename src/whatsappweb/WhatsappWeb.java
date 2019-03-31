@@ -276,7 +276,7 @@ public class WhatsappWeb {
         frame.setVisible(true);
         frame.pack();
 
-    } 
+    }         
 
     private static String getResource(String userIconpng) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
